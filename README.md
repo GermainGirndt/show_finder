@@ -7,3 +7,7 @@
 - Asynchronous calls
 - Multithreading
 - Checking if the object (dictionary) exists before accessing it
+
+### Online Alternatives
+
+- NetFlix: https://flixwatch.co
