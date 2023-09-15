@@ -1,4 +1,4 @@
-# Movie Finder
+# Show Finder
 
 ### Possible improvements
 
